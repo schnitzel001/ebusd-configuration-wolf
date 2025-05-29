@@ -13,3 +13,5 @@ r,bm2,normaussentemperatur_heizkurve,Normaussentemperatur Heizkurve,,35,5022,CC7
 w,bm2,normaussentemperatur_heizkurve,Normaussentemperatur Heizkurve,,35,5023,007F27,normaussentemperatur_heizkurve,,SIN,10,°C,Normaussentemperatur Heizkurve
 r,bm2,vorlauftemperatur_heizkurve,Vorlauftemperatur Heizkurve,,35,5022,CC7C27,vorlauftemperatur_heizkurve,,SIN,10,°C,Vorlauftemperatur Heizkurve
 w,bm2,vorlauftemperatur_heizkurve,Vorlauftemperatur Heizkurve,,35,5023,007C27,vorlauftemperatur_heizkurve,,SIN,10,°C,Vorlauftemperatur Heizkurve
+r,bm2,antilegionellenfunktion,Antilegionellenfunktion,,35,5022,CC0101,antilegionellenfunktion,,UIN,0x00=Aus;0x01=Montag;0x02=Dienstag;0x03=Mittwoch;0x04=Donnerstag;0x05=Freitag;0x06=Samstag;0x07=Sonntag;0x08=Täglich,,Antilegionellenfunktion
+w,bm2,antilegionellenfunktion,Antilegionellenfunktion,,35,5023,000101,antilegionellenfunktion,,UIN,,,Antilegionellenfunktion
